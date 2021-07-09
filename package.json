@@ -4,7 +4,7 @@
   "main": "index.js",
   "accountName": "minhaloja",
   "repository": "https://github.com/raphaelcorreaoct/vtex-speed-webpack.git",
-  "author": "Raphael <raphael.correa@bennu.com.br>",
+  "author": "Raphael <raphael.correa.b@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "webpack --watch",
